@@ -1,15 +1,15 @@
-<h2 align="center">Hi, I'm Muluken Kassaw</h2>
+<h2 >Hi, I'm Muluken Kassaw</h2>
 
-<p align="center">
+<p>
 Full-Stack Developer
 </p>
 
-<p align="center">
+<p>
 I build modern web applications using <b>React, Node.js, Express.js, MongoDB, and Tailwind CSS</b>.<br>
 I focus on creating scalable solutions and solving real-world problems through software.
 </p>
 
-<h3 align="center">Technical Skills</h3>
+<h3>Technical Skills</h3>
 
 <ul>
   <li><b>Programming Languages:</b> Python, JavaScript, HTML, CSS, SQL</li>
