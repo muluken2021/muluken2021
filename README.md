@@ -5,7 +5,7 @@ Full-Stack Developer
 </p>
 
 <p>
-I build modern web applications using <b>React, Node.js, Express.js, MongoDB, and Tailwind CSS</b>.<br>
+I build modern web applications.
 I focus on creating scalable solutions and solving real-world problems through software.
 </p>
 
