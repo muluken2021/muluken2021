@@ -14,5 +14,5 @@ I focus on creating scalable solutions and solving real-world problems through s
 <ul>
   <li><b>Programming Languages:</b> Python, JavaScript, HTML, CSS, SQL</li>
   <li><b>Frameworks / Libraries:</b> React, Node.js, Express.js, Django</li>
-  <li><b>Tools & Platforms:</b> Git/GitHub, VS Code, Postman</li>
+  <li><b>Tools & Platforms:</b> Git/GitHub, VS Code, Postman, Figma</li>
 </ul>
